@@ -65,8 +65,7 @@ links:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/achafetz"
     - label: "LinkedIn"
-      #icon: "fas fa-fw fa-link"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/aaron-chafetz/"
 
 footer:
@@ -75,7 +74,6 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/achafetz"
     - label: "LinkedIn"
-      #icon: "fas fa-fw fa-link"
       icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aaron-chafetz/"
 
