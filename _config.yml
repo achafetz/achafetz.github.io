@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Aaron Chafetz"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Senior Economist @ USAID Office of HIV/AIDS"
 links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
