@@ -73,6 +73,8 @@ author:
   name   : "Aaron Chafetz"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Senior Economist @ USAID Office of HIV/AIDS"
+  github : "achafetz"
+  linkedin : "achafetz"
 links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
