@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Projects"
+    url: /projects
   - title: "R Packages"
     url: https://usaid-oha-si.r-universe.dev/packages
   - title: "External Talks"
