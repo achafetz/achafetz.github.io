@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 title: "Personal Projects"
-layout: "single.html"
+layout: "single"
 ---
 
 Below are some personal projects I've worked.
