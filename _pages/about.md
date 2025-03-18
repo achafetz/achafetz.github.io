@@ -29,11 +29,11 @@ Skills
 Conferences and External Presentations
 ===
 
-* Posit Conf 2024 • Simple Machines: Improving Workflows with APIs • [recording](https://youtu.be/AAtauBhZvHg?si=9IQcqnuDXKnJzSP6) • [slides]()
+* Posit Conf 2024 • Simple Machines: Improving Workflows with APIs • [recording](https://youtu.be/AAtauBhZvHg?si=9IQcqnuDXKnJzSP6)
 * GSA Performance Improvement Council Workshop Series 2023 • Visualizing Data: Using Data to Tell a Story • [recording](https://community.max.gov/x/Apwug) • [slides](https://speakerdeck.com/achafetz/visualizing-data-gsa-pic)
 * Posit Conf 2023 • Adding a Touch of glitr • [recording](https://youtu.be/-0pPBAiJaYk?si=YO0q4o8Y0hUKXUYv) • [slides](https://speakerdeck.com/achafetz/adding-a-touch-of-glitr)
-* Posit Conf 2022 • Building a Pit of Success • [recording]](https://youtu.be/Jqf6Z3p839M?si=eKO7ErpZFQ5JNrS6) • [slides](https://speakerdeck.com/achafetz/digging-a-pit-of-success-for-your-organization)
-* DHIS2 Experts Academy 2018 • Deciphering the Monolith with DATIM 9000 • [slides]
+* Posit Conf 2022 • Building a Pit of Success • [recording](https://youtu.be/Jqf6Z3p839M?si=eKO7ErpZFQ5JNrS6) • [slides](https://speakerdeck.com/achafetz/digging-a-pit-of-success-for-your-organization)
+* DHIS2 Experts Academy 2018 • Deciphering the Monolith with DATIM 9000 • [slides](https://speakerdeck.com/achafetz/deciphering-the-monolith-with-datim-9000)
 
 External Work/Collabs/Support
 ===
