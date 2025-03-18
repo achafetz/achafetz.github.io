@@ -11,7 +11,7 @@ I works closely with a small team of data scientists and analysts ([@USAID-OHA-S
 
 I'm passionate about data viz and share thoughts and inspiration with my teammates in a series called Monday Data Viz and through our office's [data viz style guide](https://issuu.com/achafetz/docs/oha_styleguide), co-developed with Tim Essam and later updated with the help of Amanda Mukulec and Karishma Srikanth.
 
-My public presentations can be found on [Speaker Deck](https://speakerdeck.com/achafetz), including Post Conf recordings ([2022](https://youtu.be/Jqf6Z3p839M?si=eKO7ErpZFQ5JNrS6), [2023](https://youtu.be/-0pPBAiJaYk?si=YO0q4o8Y0hUKXUYv), [2024](https://youtu.be/AAtauBhZvHg?si=9IQcqnuDXKnJzSP6). All of my public code can be found on GitHub, on [my account](https://github.com/achafetz), but largely on [our team's organizational account](https://github.com/USAID-OHA-SI). 
+My public presentations can be found on [Speaker Deck](https://speakerdeck.com/achafetz), including Post Conf recordings ([2022](https://youtu.be/Jqf6Z3p839M?si=eKO7ErpZFQ5JNrS6), [2023](https://youtu.be/-0pPBAiJaYk?si=YO0q4o8Y0hUKXUYv), [2024](https://youtu.be/AAtauBhZvHg?si=9IQcqnuDXKnJzSP6)). All of my public code can be found on GitHub, on [my account](https://github.com/achafetz), but largely on [our team's organizational account](https://github.com/USAID-OHA-SI). 
 
 Skills
 ===
@@ -29,7 +29,7 @@ Skills
 Conferences and External Presentations
 ===
 
-* Posit Conf 2024 • Simple Machines: Improving Workflows with APIs • [recording](https://youtu.be/AAtauBhZvHg?si=9IQcqnuDXKnJzSP6)
+* Posit Conf 2024 • Simple Machines: Improving Workflows with APIs • [recording](https://youtu.be/AAtauBhZvHg?si=9IQcqnuDXKnJzSP6) • [slides](https://speakerdeck.com/achafetz/simple-machines)
 * GSA Performance Improvement Council Workshop Series 2023 • Visualizing Data: Using Data to Tell a Story • [recording](https://community.max.gov/x/Apwug) • [slides](https://speakerdeck.com/achafetz/visualizing-data-gsa-pic)
 * Posit Conf 2023 • Adding a Touch of glitr • [recording](https://youtu.be/-0pPBAiJaYk?si=YO0q4o8Y0hUKXUYv) • [slides](https://speakerdeck.com/achafetz/adding-a-touch-of-glitr)
 * Posit Conf 2022 • Building a Pit of Success • [recording](https://youtu.be/Jqf6Z3p839M?si=eKO7ErpZFQ5JNrS6) • [slides](https://speakerdeck.com/achafetz/digging-a-pit-of-success-for-your-organization)
