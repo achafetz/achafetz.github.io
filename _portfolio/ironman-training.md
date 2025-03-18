@@ -23,6 +23,6 @@ Tools
    - Pen and paper: mock up image and layouts
    - R: data munging and visualization
    - Git: version control for R code
-   - Adobe Issustrator: post-production viz clean up/editing
+   - Adobe Illustrator: post-production viz clean up/editing
 
 {% include gallery caption="Ironman training" %}

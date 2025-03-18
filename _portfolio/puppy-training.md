@@ -35,6 +35,6 @@ Tools
    - Google Sheets: time tracking and categorization of events
    - R: data munging and visualization
    - Git: version control for R code
-   - Adobe Issustrator: (minimal) post-production viz clean up/editing
+   - Adobe Illustrator: (minimal) post-production viz clean up/editing
 
 {% include gallery caption="Puppy Potty Training" %}
