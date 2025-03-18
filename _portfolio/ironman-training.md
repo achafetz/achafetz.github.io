@@ -2,8 +2,8 @@
 title: "Ironman Training"
 excerpt: "Visualizing the inputs to complete my first Ironman race"
 header:
-  #image: /assets/images/unsplash-gallery-image-2.jpg
-  teaser: assets/images/ironman-training_activities.png
+  #image: /assets/images/ironman-training_activities.png
+  teaser: /assets/images/ironman-training_activities.png
 #sidebar:
 #  - title: "Role"
 #    image: http://placehold.it/350x250
