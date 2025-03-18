@@ -2,7 +2,7 @@
 title: "Baby's Sleep Training Schedule"
 excerpt: "Converting a example table into a useful visual"
 header:
-  image: /assets/images/sleep-training_weeks0102.png
+  #image: /assets/images/sleep-training_weeks0102.png
   teaser: /assets/images/sleep-training_weeks0102.png
 #sidebar:
 #  - title: "Role"
@@ -13,7 +13,7 @@ header:
 #    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/sleep-training_weeks0102.png
-    image_path: a/assets/images/sleep-training_weeks0102.png
+    image_path: /assets/images/sleep-training_weeks0102.png
     #alt: "donut chart for wake-sleep-eat schedule weeks 1-2"
   - url: /assets/images/sleep-training_weeks0306.png
     image_path: /assets/images/sleep-training_weeks0306.png
