@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Iterate, Part III
 author: Aaron Chafetz
 categories: [data viz]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Data Viz Tools
 author: Aaron Chafetz
 categories: [data viz]

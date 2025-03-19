@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Annotate Like a Designer
 author: Aaron Chafetz
 categories: [data viz]

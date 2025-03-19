@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Inline Legends
 date: 2021-05-17
 author: Aaron Chafetz

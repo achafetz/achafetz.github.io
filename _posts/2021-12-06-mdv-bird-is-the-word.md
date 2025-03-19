@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Bird is the Word
 author: Aaron Chafetz
 categories: [data viz]

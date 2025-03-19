@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Dual Axis Manipulation
 author: Aaron Chafetz
 categories: [data viz]

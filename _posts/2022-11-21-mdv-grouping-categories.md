@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Grouping Categories
 author: Aaron Chafetz
 categories: [data viz]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Olympic Inspiration
 date: 2021-07-26
 author: Aaron Chafetz

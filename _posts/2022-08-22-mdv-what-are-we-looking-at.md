@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - What are we looking at?
 author: Aaron Chafetz
 categories: [data viz]

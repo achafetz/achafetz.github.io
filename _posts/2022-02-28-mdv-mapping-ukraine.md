@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Mapping the war in Ukrainian
 author: Aaron Chafetz
 categories: [data viz]

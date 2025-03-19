@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - What's your type-face?
 author: Aaron Chafetz
 categories: [data viz]

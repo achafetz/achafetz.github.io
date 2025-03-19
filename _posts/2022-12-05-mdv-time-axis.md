@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - The Time Axis
 author: Aaron Chafetz
 categories: [data viz]

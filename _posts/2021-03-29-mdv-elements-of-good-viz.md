@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Elements of a Good Visualization
 date: 2021-03-29
 author: Aaron Chafetz

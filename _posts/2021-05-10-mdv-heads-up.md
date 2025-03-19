@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Heads Up!
 date: 2021-05-10
 author: Aaron Chafetz

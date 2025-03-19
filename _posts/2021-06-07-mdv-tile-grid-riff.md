@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - A Riff on Tile Grid Maps
 date: 2021-06-07
 author: Aaron Chafetz

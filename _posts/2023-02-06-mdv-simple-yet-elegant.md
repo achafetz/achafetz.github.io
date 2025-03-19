@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Simple Yet Elegant
 author: Aaron Chafetz
 categories: [data viz]

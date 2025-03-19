@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Working with Messy Spreadsheets
 date: 2021-03-15
 author: Aaron Chafetz

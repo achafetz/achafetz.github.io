@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Mark It Up
 date: 2021-02-01
 author: Aaron Chafetz

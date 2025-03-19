@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Small Multiples and Group Context
 author: Aaron Chafetz
 categories: [data viz]

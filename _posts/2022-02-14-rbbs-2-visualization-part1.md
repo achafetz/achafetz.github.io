@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: RBBS - 2 Visualizations, Part I
 author: Aaron Chafetz
 date: 2022-02-14

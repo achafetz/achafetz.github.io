@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - What is a Suburb?
 date: 2020-12-14
 author: Aaron Chafetz

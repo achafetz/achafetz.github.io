@@ -2,7 +2,7 @@
 title: "RBBS - 2 Visualizations, Part II"
 author: "Aaron Chafetz"
 date: '2022-02-28'
-layout: post
+
 categories:
 - corps
 - rbbs

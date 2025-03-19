@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Visualizing Data
 author: Aaron Chafetz, Tim Essam
 categories: [presentations]

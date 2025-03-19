@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Be wary of chloropleth maps
 date: 2021-01-11
 author: Aaron Chafetz

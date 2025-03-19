@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: RBBS - 1 Motivation
 date: 2022-01-31
 author: Aaron Chafetz

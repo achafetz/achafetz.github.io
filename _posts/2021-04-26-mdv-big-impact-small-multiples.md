@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Big Impact from Small Multiples
 date: 2021-04-26
 author: Aaron Chafetz

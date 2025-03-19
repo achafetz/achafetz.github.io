@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Offset bars
 author: Aaron Chafetz
 categories: [data viz]

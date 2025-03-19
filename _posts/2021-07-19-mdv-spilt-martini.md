@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Spilt Martini
 date: 2021-07-19
 author: Aaron Chafetz

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - DST misalignment
 author: Aaron Chafetz
 categories: [data viz]

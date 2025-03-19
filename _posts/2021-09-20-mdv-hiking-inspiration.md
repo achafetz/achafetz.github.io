@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Hiking Inspiration
 author: Aaron Chafetz
 categories: [data viz]

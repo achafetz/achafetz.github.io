@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Action Oriented Data Viz
 author: Aaron Chafetz
 categories: [data viz]

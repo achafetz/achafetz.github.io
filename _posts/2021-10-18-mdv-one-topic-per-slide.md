@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - One topic per slide
 author: Aaron Chafetz
 categories: [data viz]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Annotations Abound
 author: Aaron Chafetz
 categories: [data viz]

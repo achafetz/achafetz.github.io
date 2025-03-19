@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Creating a reproducible example (reprex)
 date: 2023-03-22
 author: Aaron Chafetz

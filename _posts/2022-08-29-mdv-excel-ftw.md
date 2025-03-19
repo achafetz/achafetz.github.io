@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Excel FTW
 author: Aaron Chafetz
 categories: [data viz]

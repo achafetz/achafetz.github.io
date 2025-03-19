@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Out of Scale
 author: Aaron Chafetz
 categories: [data viz]

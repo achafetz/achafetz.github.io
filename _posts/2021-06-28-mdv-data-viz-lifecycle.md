@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - The Full Data Viz Lifecycle
 date: 2021-06-28
 author: Aaron Chafetz

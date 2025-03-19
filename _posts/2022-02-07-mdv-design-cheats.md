@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Stealing Design Cheats
 author: Aaron Chafetz
 categories: [data viz]

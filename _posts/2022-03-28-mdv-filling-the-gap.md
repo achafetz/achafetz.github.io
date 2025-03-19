@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Filling the Gap
 author: Aaron Chafetz
 categories: [data viz]

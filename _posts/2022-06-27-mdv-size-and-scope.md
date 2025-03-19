@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Size and Scope
 author: Aaron Chafetz
 categories: [data viz]

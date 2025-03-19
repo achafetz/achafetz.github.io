@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Visual Hierachy, Part II
 author: Aaron Chafetz
 categories: [data viz]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Avoiding Stacked Charts
 date: 2021-03-15
 author: Aaron Chafetz

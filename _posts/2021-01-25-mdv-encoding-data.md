@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Encoding Data
 date: 2021-01-24
 author: Aaron Chafetz

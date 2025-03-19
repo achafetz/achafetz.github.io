@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Digging a Pit of Success for Your Organization
 author: Aaron Chafetz
 categories: [presentations]

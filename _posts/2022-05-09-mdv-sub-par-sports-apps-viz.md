@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Sub Par Sports Apps Data Viz
 author: Aaron Chafetz
 categories: [data viz]

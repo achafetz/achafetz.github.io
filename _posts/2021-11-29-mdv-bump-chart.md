@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Bump Charts
 author: Aaron Chafetz
 categories: [data viz]

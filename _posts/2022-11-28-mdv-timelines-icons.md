@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Timelines and Icons
 author: Aaron Chafetz
 categories: [data viz]

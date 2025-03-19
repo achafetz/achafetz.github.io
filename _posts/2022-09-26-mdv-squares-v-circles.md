@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Squares over Circles
 author: Aaron Chafetz
 categories: [data viz]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Brood X
 date: 2021-04-12
 author: Aaron Chafetz

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Borrowing from Graphic Design
 date: 2021-04-19
 author: Aaron Chafetz

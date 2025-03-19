@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Directional Dumbbell Plots
 author: Aaron Chafetz
 categories: [data viz]

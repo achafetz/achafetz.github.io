@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Slope chart + small multiples
 author: Aaron Chafetz
 categories: [data viz]

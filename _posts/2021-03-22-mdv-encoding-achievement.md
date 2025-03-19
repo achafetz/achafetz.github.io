@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Encoding Target Achievement
 date: 2021-03-22
 author: Aaron Chafetz

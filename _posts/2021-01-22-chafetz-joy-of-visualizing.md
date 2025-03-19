@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: The Joy of Visualization
 author: Aaron Chafetz
 categories: [presentations]

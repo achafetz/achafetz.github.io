@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Dynamic Scripting Workflow
 date: 2021-10-25
 author: Aaron Chafetz

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Whiteboards and Markers
 date: 2021-05-24
 author: Aaron Chafetz

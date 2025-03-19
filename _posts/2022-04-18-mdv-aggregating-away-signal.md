@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Aggregating Away the Signal
 author: Aaron Chafetz
 categories: [data viz]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - The importance of context
 author: Aaron Chafetz
 categories: [data viz]

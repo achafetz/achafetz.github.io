@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Applying the Style Guide to Our Work
 author: Aaron Chafetz
 categories: [data viz]

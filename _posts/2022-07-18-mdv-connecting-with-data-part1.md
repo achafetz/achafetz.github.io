@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Connecting with Your Data, Part I
 author: Aaron Chafetz
 categories: [data viz]

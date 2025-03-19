@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Multiple Facets of Different Sizes
 author: Aaron Chafetz
 categories: [data viz]

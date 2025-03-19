@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Helper Annotation
 author: Aaron Chafetz
 categories: [data viz]

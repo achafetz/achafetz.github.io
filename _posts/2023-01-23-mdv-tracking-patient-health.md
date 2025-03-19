@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Tracking Patient Health Stories
 author: Aaron Chafetz
 categories: [data viz]

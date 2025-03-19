@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Annotate, Annotate, Annotate
 date: 2021-03-08
 author: Aaron Chafetz

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Conveying Concepts with Visuals
 date: 2021-08-02
 author: Aaron Chafetz

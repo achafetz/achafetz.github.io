@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Re-plotting the difference
 author: Aaron Chafetz
 categories: [data viz]

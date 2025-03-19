@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Viz Eliciting Emotions
 author: Aaron Chafetz
 categories: [data viz]

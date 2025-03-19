@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Plot Function
 date: 2021-02-22
 author: Aaron Chafetz

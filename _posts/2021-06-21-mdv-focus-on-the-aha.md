@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Focusing on the "aha" and not the "ooh ahh"
 date: 2021-06-21
 author: Aaron Chafetz

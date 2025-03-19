@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Part to Whole
 author: Aaron Chafetz
 categories: [data viz]

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: RBBS - 10 Functions/Iteration Part I
 date: 2022-05-16
 author: Aaron Chafetz

@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Monday Data Viz - Highlighting Outliers
 date: 2021-07-12
 author: Aaron Chafetz
