@@ -5,6 +5,10 @@ main:
     url: /portfolio
   - title: "Posts"
     url: /year-archive/
+  - title: "Collections"
+    url: /collection-archive/
+  - title: "Sitemap"
+    url: /sitemap/
   - title: "R Packages"
     url: https://usaid-oha-si.r-universe.dev/packages
   - title: "External Talks"
