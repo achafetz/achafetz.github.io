@@ -22,7 +22,18 @@ layout: archive
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ entries_layout }}">
       {% for post in year.items %}
-        {% include archive-single.html type=entries_layout %}
+        <article class="post-entry">
+          {% if post.thumbnail %}
+            <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="post-thumbnail">
+          {% endif %}
+          <h3 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <p class="post-meta">
+            <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+            {% if post.author %} | <span class="post-author">{{ post.author }}</span>{% endif %}
+            {% if post.categories %} | <span class="post-categories">{{ post.categories | join: ', ' }}</span>{% endif %}
+            {% if post.tags %} | <span class="post-tags">{{ post.tags | join: ', ' }}</span>{% endif %}
+          </p>
+        </article>
       {% endfor %}
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
