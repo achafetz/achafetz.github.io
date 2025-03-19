@@ -6,9 +6,6 @@ main:
   - title: "Posts"
     #url: /year-archive/
     url: https://achafetz.github.io/
-    url: /home
-  - title: "Collections"
-    url: /collection-archive/
   - title: "R Packages"
     url: https://usaid-oha-si.r-universe.dev/packages
   - title: "External Talks"
