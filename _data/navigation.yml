@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Portfolio"
     url: /portfolio
+  - title: "Posts"
+    url: "/posts"
   - title: "R Packages"
     url: https://usaid-oha-si.r-universe.dev/packages
   - title: "External Talks"
