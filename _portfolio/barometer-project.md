@@ -3,7 +3,7 @@ title: "Barometer project"
 excerpt: "Designing a data based planning and assesment tool"
 header:
   #image: 
-  teaser: /assets/images/baromebarometer_vba2.png
+  teaser: /assets/images/barometer_vba2.png
 #sidebar:
 #  - title: "Role"
 #    image: http://placehold.it/350x250
@@ -12,20 +12,20 @@ header:
 #  - title: "Responsibilities"
 #    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/baromebarometer_home.png
-    image_path: /assets/images/baromebarometer_home.png
-  - url: /assets/images/baromebarometer_vba1.png
-    image_path: /assets/images/baromebarometer_vba1.png
-  - url: /assets/images/baromebarometer_vba2.png
-    image_path: /assets/images/baromebarometer_vba2.png
-  - url: /assets/images/baromebarometer_data.png
-    image_path: /assets/images/baromebarometer_data.png
-  - url: /assets/images/baromebarometer_survey1.png
-    image_path: /assets/images/baromebarometer_survey1.png
-  - url: /assets/images/baromebarometer_index.png
-    image_path: /assets/images/baromebarometer_index.png
-  - url: /assets/images/baromebarometer_review.png
-    image_path: /assets/images/baromebarometer_review.png
+  - url: /assets/images/barometer_home.png
+    image_path: /assets/images/barometer_home.png
+  - url: /assets/images/barometer_vba1.png
+    image_path: /assets/images/barometer_vba1.png
+  - url: /assets/images/barometer_vba2.png
+    image_path: /assets/images/barometer_vba2.png
+  - url: /assets/images/barometer_data.png
+    image_path: /assets/images/barometer_data.png
+  - url: /assets/images/barometer_survey1.png
+    image_path: /assets/images/barometer_survey1.png
+  - url: /assets/images/barometer_index.png
+    image_path: /assets/images/barometer_index.png
+  - url: /assets/images/barometer_review.png
+    image_path: /assets/images/barometer_review.png
 ---
 
 I worked with a non-profit to design an all inclusivee planning and assesment tool for their data needs during humanitarian emergencies. The tool needed to be available offline and not install new software, so I developed a multi-purpose tool in Excel, serving as a vehicle for survey collection/capture, database for storing survey results, and interface for dynamically interacting with survey results. 
