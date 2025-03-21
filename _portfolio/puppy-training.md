@@ -1,5 +1,5 @@
 ---
-title: "Puppy Potty Training"
+title: "Potty Training"
 excerpt: "Tracking accidents for our puppy's potty training"
 header:
   #image: /assets/images/puppy-training_accidents-viz.png

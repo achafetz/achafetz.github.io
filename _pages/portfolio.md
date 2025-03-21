@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-While I am not able to share output from my work products (though you can file all public package and code on [my GitHub](https://github.com/achafetz/) and [my organizational account](https://github.com/USAID-OHA-SI/)), below are some personal projects I've worked on.
+While I am not able to share the outputs from my work products, you can file all public packages and code on [my GitHub](https://github.com/achafetz/) and [organizational account](https://github.com/USAID-OHA-SI/). I can, however, share some personal project that I have worked on in the past.

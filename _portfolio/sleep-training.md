@@ -1,5 +1,5 @@
 ---
-title: "Baby's Sleep Training Schedule"
+title: "Sleep Training"
 excerpt: "Converting a example table into a useful visual"
 header:
   #image: /assets/images/sleep-training_weeks0102.png
