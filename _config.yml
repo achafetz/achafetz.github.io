@@ -110,3 +110,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-NCWH48FZN7" # Replace with your Google Analytics tracking ID
+    domain               : "achafetz.github.io" # Replace with your domain
