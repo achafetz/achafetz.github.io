@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "AARON CHAFETZ"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Economist 
+  bio    : "Senior Economist <br>
             USAID Office of HIV/AIDS"
   email  : "achafetz@gmail.com"
   github : "achafetz"
@@ -72,6 +72,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/aaron-chafetz/"
+    - label: "Speaker Deck"
+      icon: "fab fa-fw fa-speaker-deck"
+      url: "https://speakerdeck.com/achafetz"
 
 defaults:
   # _posts
