@@ -57,10 +57,12 @@ plugins:
 author:
   name   : "AARON CHAFETZ"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Senior Economist @ USAID Office of HIV/AIDS"
+  bio    : "Senior Economist 
+            USAID Office of HIV/AIDS"
   email  : "achafetz@gmail.com"
   github : "achafetz"
   linkedin : "achafetz"
+  speakerdeck: "achafetz"
 
 footer:
   links:
