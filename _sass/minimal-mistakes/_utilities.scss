@@ -223,6 +223,7 @@ $text-alignments: left, right, start, end, center, justify;
     $vine-color: ".fa-vine",
     $xing-color: ".fa-xing, .fa-xing-square",
     $youtube-color: ".fa-youtube",
+    $speakerdeck-color: ".fa-speaker-deck",
   ) {
     #{$icons} {
       color: $color;
