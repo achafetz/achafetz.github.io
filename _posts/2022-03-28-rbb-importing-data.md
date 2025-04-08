@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "RBBS - 6 Importing Data"
 date: "2022-03-28"
 author: "Aaron Chafetz"
