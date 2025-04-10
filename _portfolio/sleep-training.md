@@ -4,13 +4,13 @@ excerpt: "Converting a example table into a useful visual"
 header:
   #image: /assets/images/sleep-training_weeks0102.png
   teaser: /assets/images/sleep-training_weeks0102.png
-#sidebar:
-#  - title: "Role"
-#    image: http://placehold.it/350x250
-#    image_alt: "logo"
-#    text: "Designer, Front-End Developer"
-#  - title: "Responsibilities"
-#    text: "Reuters try PR stupid commenters should isn't a business model"
+sidebar:
+  - title: "Personal Project"
+    #image: /assets/images/personal_icon.png
+  - title: "Timeline"
+    text: "2022"
+  - title: "Tools"
+    text: "Pen & Paper, Adobe Illustrator, Excel"
 gallery:
   - url: /assets/images/sleep-training_weeks0102.png
     image_path: /assets/images/sleep-training_weeks0102.png
@@ -26,13 +26,12 @@ gallery:
     #alt: "donut chart for wake-sleep-eat schedule weeks 11-15"
 ---
 
-When we had our first kid, my wife and I read a number of books to figure out what we were doing. For sleep training, we landed on *[On Becoming Baby Wise](https://www.amazon.com/Becoming-Baby-Wise-Giving-Nighttime-ebook/dp/B00CLKEUVM)* to figure out the sleep training. The book laid out a number of templates in grid form and left you to figure out what worked the best for your baby. It was useful, but difficult to interpret, expecially for sleep deprived parents. 
+*Personal Project*
 
-To improve the readability of the data, I converted the tables into visualizing to pin up on our fridge and outside the baby's room. 
+## Project Purpose
+Improve the readability of tabular data, by convering it into a data visualization
 
-Tools
-   - Pen and paper: mock up image and layouts
-   - Excel: expand examples into full time tables with categories
-   - Adobe Illustrator: design mock ups and final outputs
+## Overview
+When we had our first kid, my wife and I read a number of books and blogs to figure out what we were doing. For sleep training, we landed on using one that laid out the start of an example table of sleepign schedulesg. The examples laid out a number of templates in grid form and left you to figure out what worked the best for your baby. It was useful, but difficult to interpret and extrapolate the rest of the day, expecially for sleep deprived parents. I transposed the data into Excel, figuring out what a rough day might look like for each training period. From there, I sketched out different ideas of how to visualize the data and then worked in Adobe Illustrator to mock up the structure. At the end, we were able to pin up each period's schedule onto our fridge and outside the baby's room. 
 
-{% include gallery caption="Various weeks converted from the example table in *On Becoming Baby Wise*." %}
+{% include gallery caption="" %}

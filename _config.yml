@@ -102,11 +102,19 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
+  # _work
+  #- scope:
+  #    path: ""
+  #    type: work
+  #  values:
+  #    layout: single
+  #    author_profile: false
+  #    share: false
 
 category_archive:
-  type: liquid
+  type: liquid 
   path: /categories/
 tag_archive:
   type: liquid
@@ -116,6 +124,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  work:
+    output: true
+    permalink: /work/:title/
 
 # Analytics
 analytics:

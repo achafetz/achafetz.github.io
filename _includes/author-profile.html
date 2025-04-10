@@ -88,6 +88,14 @@
         </li>
       {% endif %}
 
+      {% if author.speakerdeck %}
+      <li>
+        <a href="https://speakerdeck.com/{{ author.speakerdeck }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+          <i class="fab fa-fw fa-speaker-deck" aria-hidden="true"></i><span class="label">Speaker Deck</span>
+        </a>
+      </li>
+    {% endif %}
+
       {% if author.xing %}
         <li>
           <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
