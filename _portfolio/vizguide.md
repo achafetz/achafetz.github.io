@@ -12,8 +12,8 @@ sidebar:
   - title: "Timeline"
     text: "2020-2025"
   - title: "Versions"
-    text: "[Data Visualization Style Guide (2021)](https://issuu.com/achafetz/docs/oha_styleguide) <br>
-           [Data Visualization Style Guide (2024)]()"
+    text: "[Data Visualization Style Guide (2024)](https://issuu.com/achafetz/docs/data_visualization_guide_2024_office_of_hiv_aids) <br>
+           [Data Visualization Style Guide (2021)](https://issuu.com/achafetz/docs/oha_styleguide)"
   - title: "Custom R Package"
     text: "[glitr](https://usaid-oha-si.github.io/glitr/)"
   - title: "Tools"
