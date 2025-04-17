@@ -19,7 +19,7 @@ description: "Aaron Chafetz's personal website"
 github_username: achafetz
 minimal_mistakes_skin: default
 respository: "achafetz/achafetz.github.io"
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
