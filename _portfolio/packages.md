@@ -27,7 +27,7 @@ gallery:
 ---
 
 ## Project Purpose
-Create a common infratructure for data scientists and data analysts within USAID's HIV program to use to improve efficiency, collaboration, version control, and reproducibility.
+Create a common infratructure for data scientists and data analysts within USAID's HIV program to use to improve efficiency, collaboration, version control, and reproducibility. Our packages are available for download from [rOpenSci](https://usaid-oha-si.r-universe.dev/packages).
 
 ## Overview
   - [**gagglr**](https://usaid-oha-si.github.io/gagglr/) - provides a check to users to ensure they are using the latest versions of the core OHA utility packages since they are not updated on regular intervals
