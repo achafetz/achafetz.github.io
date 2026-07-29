@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "AARON CHAFETZ"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Digital Service Expert
+  bio    : "Digital Service Expert<br>
             Centers for Medicare and Medicaid Services"
   email  : "achafetz@gmail.com"
   github : "achafetz"
